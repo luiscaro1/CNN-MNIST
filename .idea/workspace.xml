@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4343bfa4-c948-415f-95b5-98d2903f2f68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NeuralNetwork/NeuralNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NeuralNetwork/NeuralNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/DigitsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/DigitsTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UxckOvGssqk1ABNy2UEy37N56G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.39012095" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Test" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/TestData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DigitsTest">
+    <configuration name="DigitsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.DigitsTest" />
+      <module name="Neural-Hand-Written-Digit-Classifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeuralNetwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NeuralNetwork.NeuralNetwork" />
+      <module name="Neural-Hand-Written-Digit-Classifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NeuralNetwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.Vector.Vector" />
+      <module name="Neural-Hand-Written-Digit-Classifier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.Vector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigitsTest" />
+        <item itemvalue="Application.NeuralNetwork" />
+        <item itemvalue="Application.Vector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4343bfa4-c948-415f-95b5-98d2903f2f68" name="Default Changelist" comment="" />
+      <created>1576301828737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576301828737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="215" width="800" height="684" key="#Project_Structure" timestamp="1578587833561">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="800" height="684" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1578587833561" />
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576474198425">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576474198425" />
+    <state x="594" y="243" width="721" height="627" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1576466458911">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="594" y="243" width="721" height="627" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1576466458911" />
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1576969561899">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="266" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1576969561899" />
+    <state x="1194" y="234" width="544" height="645" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1577195392015">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1194" y="234" width="544" height="645" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577195392015" />
+    <state x="648" y="355" width="293" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579653153875">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="648" y="355" width="293" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653153875" />
+    <state x="643" y="291" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577468657597">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="643" y="291" width="624" height="548" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577468657597" />
+    <state x="1113" y="296" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577647506266">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1113" y="296" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577647506266" />
+    <state x="816" y="309" width="278" height="495" key="#xdebugger.XInspectDialog" timestamp="1577405182014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="816" y="309" width="278" height="495" key="#xdebugger.XInspectDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1577405182014" />
+    <state x="718" y="259" key="#xdebugger.evaluate" timestamp="1577387150742">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="718" y="259" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1577387150742" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1577345123826">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.27.1920.1053@0.27.1920.1053" timestamp="1577345123826" />
+    <state x="629" y="300" width="652" height="519" key="FileChooserDialogImpl" timestamp="1577649218697">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="629" y="300" width="652" height="519" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1577649218697" />
+    <state width="1358" height="324" key="GridCell.Tab.0.bottom" timestamp="1579654507889">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="324" key="GridCell.Tab.0.bottom/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579654507889" />
+    <state width="1613" height="235" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1578589558669" />
+    <state width="1358" height="324" key="GridCell.Tab.0.center" timestamp="1579654507888">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="324" key="GridCell.Tab.0.center/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579654507888" />
+    <state width="1613" height="235" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1578589558667" />
+    <state width="1358" height="324" key="GridCell.Tab.0.left" timestamp="1579654507888">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="324" key="GridCell.Tab.0.left/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579654507888" />
+    <state width="1613" height="235" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1578589558667" />
+    <state width="1358" height="324" key="GridCell.Tab.0.right" timestamp="1579654507888">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="324" key="GridCell.Tab.0.right/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579654507888" />
+    <state width="1613" height="235" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1578589558668" />
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom" timestamp="1579653636116">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.bottom/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653636116" />
+    <state width="1613" height="320" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1578589343826" />
+    <state width="1358" height="254" key="GridCell.Tab.1.center" timestamp="1579653636116">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.center/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653636116" />
+    <state width="1613" height="320" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1578589343825" />
+    <state width="1358" height="254" key="GridCell.Tab.1.left" timestamp="1579653636116">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.left/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653636116" />
+    <state width="1613" height="320" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1578589343825" />
+    <state width="1358" height="254" key="GridCell.Tab.1.right" timestamp="1579653636116">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="1358" height="254" key="GridCell.Tab.1.right/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653636116" />
+    <state width="1613" height="320" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1578589343826" />
+    <state x="627" y="214" width="992" height="737" key="SettingsEditor" timestamp="1576905649861">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="627" y="214" width="992" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1576905649861" />
+    <state width="509" height="525" key="XDebugger.FullValuePopup" timestamp="1577402417459">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="509" height="525" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1577402417459" />
+    <state x="533" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1579653102230">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="533" y="342" key="com.intellij.ide.util.TipDialog/0.27.1600.873/1600.0.1600.900@0.27.1600.873" timestamp="1579653102230" />
+    <state x="639" y="407" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1578587890419" />
+    <state x="643" y="293" width="634" height="530" key="find.popup" timestamp="1577117410798">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="643" y="293" width="634" height="530" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577117410798" />
+    <state x="742" y="176" width="1168" height="781" key="new project wizard" timestamp="1576961676998">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="742" y="176" width="1168" height="781" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1576961676998" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1577222539672">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577222539672" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1577511146290">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1577511146290" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="desired.get(0).value" />
+        <watch expression="n" />
+        <watch expression="desired" />
+        <watch expression="((Layer.Layer)((NeuralNetwork.NeuralNetwork)this).layers[0]).layerNeurons.get(0)" custom="Layer.Layer,NeuralNetwork.NeuralNetwork" />
+        <watch expression="((NeuralNetwork.NeuralNetwork)this).layers" custom="NeuralNetwork.NeuralNetwork" />
+        <watch expression="adjustLayer.layerNeurons.get(0)" />
+        <watch expression="currentWeights" />
+        <watch expression="this" />
+        <watch expression="currentWeights" language="JAVA" />
+        <watch expression="adj.get(1)" />
+        <watch expression="adj.get(1)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FlappyBird_IO$DigitsTest.ic" NAME="DigitsTest Coverage Results" MODIFIED="1577513311760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
